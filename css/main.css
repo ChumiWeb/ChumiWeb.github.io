@@ -628,3 +628,9 @@ body {
  color: #060606;
  font-size: 20px;
 }
+@media (max-width: 768px) {
+  .column {
+    width: 100%;
+  }
+}
+
